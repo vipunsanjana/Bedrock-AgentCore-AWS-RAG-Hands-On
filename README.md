@@ -2,13 +2,19 @@
 
 🚀 **AGENT-CORE-AWS** is a hands-on crash course for building and deploying intelligent agents using **Amazon Bedrock AgentCore**. This repository contains progressive examples demonstrating how to create AI agents that leverage language models, RAG (Retrieval-Augmented Generation), and sophisticated memory management.
 
-This project shows you how to:
 
-* Build intelligent agents with **Amazon Bedrock AgentCore**
-* Implement **RAG pipelines** for context-aware responses
-* Create **custom tools** for agent functionality
-* Manage **agent memory and sessions** for conversational continuity
-* Deploy and invoke agents in production environments
+## 🎯 What You Will Learn
+
+In this hands-on project, you will learn how to:
+
+* 🛠️ Build intelligent agents using **Amazon Bedrock AgentCore**
+* 📚 Implement **RAG pipelines** for context-aware AI responses
+* 🔌 Create **custom tools** to extend agent capabilities
+* 🧠 Manage **agent memory and sessions** for conversational continuity
+* 🚀 Deploy and invoke agents in **production environments**
+* ⚡ Integrate high-performance inference using **Groq LLMs**
+* 🤗 Use **Hugging Face models** for embeddings and NLP tasks
+
 
 ---
 
@@ -39,14 +45,19 @@ Bedrock-AgentCore-AWS-RAG-Hands-On/
 4. **Logging & Observability** – Monitor agent performance with AWS CloudWatch
 5. **Invocation Pipeline** – Process user queries through the agent workflow
 
+
 ---
 
 ## 🔐 Prerequisites
 
-* **AWS Account** with Bedrock access enabled
-* **Python 3.9+**
-* **AWS CLI** installed and configured
-* **Amazon Bedrock Model Access** (request via AWS console)
+Before getting started, make sure you have the following:
+
+* ☁️ **AWS Account** with Amazon Bedrock access enabled
+* 🐍 **Python 3.9+** installed
+* 🔧 **AWS CLI** installed and configured
+* 🧠 **Amazon Bedrock Model Access** (request via AWS Console)
+* 🤗 **Hugging Face account & token**
+* ⚡ **Groq API key**
 
 ---
 

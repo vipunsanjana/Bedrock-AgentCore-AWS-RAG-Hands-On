@@ -100,9 +100,9 @@ Enter your:
 Create a `.env` file with:
 
 ```env
-AWS_REGION=us-east-1
-BEDROCK_AGENT_ID=your-agent-id
-BEDROCK_AGENT_ALIAS_ID=your-alias-id
+HF_TOKEN="put your token"
+GROQ_API_KEY="put your token"
+
 ```
 
 ### Step 4: Run the Agent

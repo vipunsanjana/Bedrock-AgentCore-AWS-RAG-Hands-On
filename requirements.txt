@@ -1,0 +1,46 @@
+# ---------- Core AWS AgentCore ----------
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+
+# ---------- LangChain Ecosystem ----------
+langchain
+langchain-community
+langchain-aws
+langchain-groq
+langchain-huggingface
+
+# ---------- LangGraph ----------
+langgraph
+langgraph-checkpoint-aws
+
+# ---------- Vector Search ----------
+faiss-cpu
+
+# ---------- Embeddings ----------
+sentence-transformers
+transformers
+torch
+
+# ---------- AWS SDK ----------
+boto3
+botocore
+
+# ---------- Async + HTTP ----------
+aiohttp
+httpx
+requests
+
+# ---------- Data Models ----------
+pydantic
+pydantic-settings
+
+# ---------- Utilities ----------
+python-dotenv
+tenacity
+orjson
+pyyaml
+tqdm
+rich
+numpy
+uvicorn
+fastapi
